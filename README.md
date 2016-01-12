@@ -1,7 +1,6 @@
 # Blynk-Library_Examples
-Simple examples of using Blynk and Node.js
+Simple examples of using Blynk and Node.js together for remote command and control.
 
-==TO DO==
-1. Simple example with J5 implementations for read
-2. simple example with J5 implementations for write
-2. socket.io data to a webpage
+##==TO DO==
+1. socket.io data to a webpage
+2. test J5 Examples
